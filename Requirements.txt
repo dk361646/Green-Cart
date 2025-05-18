@@ -2,11 +2,9 @@ pandas
 numpy
 scikit-learn
 matplotlib
-seaborn
 transformers
-nltk
+re
+spacy
 jupyter
-tqdm
 tensorflow
-tensorflow-hub
-tensorflow-text
+keras
